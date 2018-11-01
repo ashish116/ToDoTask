@@ -1,4 +1,4 @@
-package com.androstock.todotask;
+package com.ashish.todotask;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

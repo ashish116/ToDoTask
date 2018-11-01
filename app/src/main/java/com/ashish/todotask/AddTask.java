@@ -1,11 +1,10 @@
-package com.androstock.todotask;
+package com.ashish.todotask;
 
 import android.content.Intent;
 import android.database.Cursor;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -15,9 +14,6 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.Locale;
 
-/**
- * Created by Ferdousur Rahman Sarker on 3/17/2018.
- */
 
 public class AddTask extends AppCompatActivity implements DatePickerDialog.OnDateSetListener {
 

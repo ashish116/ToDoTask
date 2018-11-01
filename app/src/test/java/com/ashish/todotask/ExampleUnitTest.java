@@ -1,4 +1,4 @@
-package com.androstock.todotask;
+package com.ashish.todotask;
 
 import org.junit.Test;
 

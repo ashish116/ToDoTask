@@ -1,12 +1,10 @@
-package com.androstock.todotask;
+package com.ashish.todotask;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
-/**
- * Created by Ferdousur Rahman Sarker on 3/21/2018.
- */
+
 
 public class Function {
 

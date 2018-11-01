@@ -1,4 +1,4 @@
-package com.androstock.todotask;
+package com.ashish.todotask;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -17,9 +17,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 
-/**
- * Created by Ferdousur Rahman Sarker on 3/16/2018.
- */
+
 
 public class TaskHome extends AppCompatActivity {
 
